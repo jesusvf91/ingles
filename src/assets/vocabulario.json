@@ -1,0 +1,374 @@
+[
+    {
+     "English": "Agency",
+     "Spanish": "Agencia"
+    },
+    {
+     "English": "Allergy",
+     "Spanish": "Alergia"
+    },
+    {
+     "English": "Ambulance",
+     "Spanish": "Ambulancia"
+    },
+    {
+     "English": "Antibiotic",
+     "Spanish": "Antibiótico"
+    },
+    {
+     "English": "Area \/ district",
+     "Spanish": "Barrio"
+    },
+    {
+     "English": "Avenue",
+     "Spanish": "Avenida"
+    },
+    {
+     "English": "Backery",
+     "Spanish": "Panadería"
+    },
+    {
+     "English": "Bank",
+     "Spanish": "Banco"
+    },
+    {
+     "English": "Beginning \/ start",
+     "Spanish": "Principio"
+    },
+    {
+     "English": "Border \/ frontier",
+     "Spanish": "Frontera"
+    },
+    {
+     "English": "Bottle",
+     "Spanish": "Botella"
+    },
+    {
+     "English": "Boutique",
+     "Spanish": "Boutique"
+    },
+    {
+     "English": "Building",
+     "Spanish": "Edificio"
+    },
+    {
+     "English": "Business \/ company",
+     "Spanish": "Empresa"
+    },
+    {
+     "English": "Café \/ snack bar",
+     "Spanish": "Cafetería"
+    },
+    {
+     "English": "Can",
+     "Spanish": "Lata"
+    },
+    {
+     "English": "Cash",
+     "Spanish": "Metalico \/ efectivo"
+    },
+    {
+     "English": "Cash(caja) dispenser",
+     "Spanish": "Cajero automático"
+    },
+    {
+     "English": "Center \/ middle",
+     "Spanish": "Centro"
+    },
+    {
+     "English": "Chalet",
+     "Spanish": "Chaleét"
+    },
+    {
+     "English": "Chemist's \/ Pharmacy \/ Drugstore",
+     "Spanish": "Farmacia"
+    },
+    {
+     "English": "Coin",
+     "Spanish": "Moneda"
+    },
+    {
+     "English": "Cold",
+     "Spanish": "Resfriado"
+    },
+    {
+     "English": "Corner",
+     "Spanish": "Esquina"
+    },
+    {
+     "English": "Cost \/ price \/ retail (por menor) price",
+     "Spanish": "Precio"
+    },
+    {
+     "English": "Cotton",
+     "Spanish": "Algodón"
+    },
+    {
+     "English": "Country",
+     "Spanish": "País"
+    },
+    {
+     "English": "Credit card",
+     "Spanish": "Tarjeta de crédito"
+    },
+    {
+     "English": "Crossing",
+     "Spanish": "Cruce"
+    },
+    {
+     "English": "Cup",
+     "Spanish": "Taza"
+    },
+    {
+     "English": "Dish \/ plate",
+     "Spanish": "Plato"
+    },
+    {
+     "English": "Dishwasher",
+     "Spanish": "Lavavajillas"
+    },
+    {
+     "English": "Dollar",
+     "Spanish": "Dólar"
+    },
+    {
+     "English": "Embassy",
+     "Spanish": "Embajada"
+    },
+    {
+     "English": "End",
+     "Spanish": "Fin (final)"
+    },
+    {
+     "English": "Euro",
+     "Spanish": "Euro"
+    },
+    {
+     "English": "Example",
+     "Spanish": "Ejemplo"
+    },
+    {
+     "English": "Fever",
+     "Spanish": "Fiebre"
+    },
+    {
+     "English": "Flat \/ apartment",
+     "Spanish": "Piso \/ Apartamento"
+    },
+    {
+     "English": "Font \/ Fountain",
+     "Spanish": "Fuente"
+    },
+    {
+     "English": "Fork",
+     "Spanish": "Tenedor"
+    },
+    {
+     "English": "Free",
+     "Spanish": "Gratis "
+    },
+    {
+     "English": "Fridge \/ refrigerator",
+     "Spanish": "Frigorífico"
+    },
+    {
+     "English": "Frying pan",
+     "Spanish": "Sartén (cazo de freir)"
+    },
+    {
+     "English": "Garage",
+     "Spanish": "Taller"
+    },
+    {
+     "English": "Garden",
+     "Spanish": "Jardín"
+    },
+    {
+     "English": "Gauze \/ surgical gauze",
+     "Spanish": "Gasa"
+    },
+    {
+     "English": "Gift \/ present",
+     "Spanish": "Regalo"
+    },
+    {
+     "English": "Glass",
+     "Spanish": "Vaso"
+    },
+    {
+     "English": "Hairdresser shop",
+     "Spanish": "Peluquería"
+    },
+    {
+     "English": "Hospital",
+     "Spanish": "Hospital"
+    },
+    {
+     "English": "House",
+     "Spanish": "Casa"
+    },
+    {
+     "English": "Housing estate",
+     "Spanish": "Urbanización"
+    },
+    {
+     "English": "Hyper-supermarket",
+     "Spanish": "HiperSupermercado"
+    },
+    {
+     "English": "Influenza",
+     "Spanish": "Gripe"
+    },
+    {
+     "English": "Injection",
+     "Spanish": "Inyección"
+    },
+    {
+     "English": "Injured",
+     "Spanish": "Herida"
+    },
+    {
+     "English": "Iron shop \/ hardware store",
+     "Spanish": "Ferretería"
+    },
+    {
+     "English": "Jewel shop",
+     "Spanish": "Joyería"
+    },
+    {
+     "English": "Kitchen",
+     "Spanish": "Cocina"
+    },
+    {
+     "English": "Knife",
+     "Spanish": "Cuchillo"
+    },
+    {
+     "English": "Languaje",
+     "Spanish": "Idioma"
+    },
+    {
+     "English": "Machine",
+     "Spanish": "Máquina"
+    },
+    {
+     "English": "Microwaves",
+     "Spanish": "Microondas"
+    },
+    {
+     "English": "Middle \/ half",
+     "Spanish": "Mitad"
+    },
+    {
+     "English": "Money",
+     "Spanish": "Dinero"
+    },
+    {
+     "English": "Napkin, serviette",
+     "Spanish": "Servilleta"
+    },
+    {
+     "English": "Note \/ bill \/ Ticket(entrada)",
+     "Spanish": "Billete"
+    },
+    {
+     "English": "Object",
+     "Spanish": "Objeto"
+    },
+    {
+     "English": "Pain",
+     "Spanish": "Dolor"
+    },
+    {
+     "English": "Painkiller \/ sedative \/ tranquillizer",
+     "Spanish": "Calmante"
+    },
+    {
+     "English": "Pan",
+     "Spanish": "Cazo"
+    },
+    {
+     "English": "Park",
+     "Spanish": "Parque"
+    },
+    {
+     "English": "Piece of cutlery",
+     "Spanish": "Cubierto"
+    },
+    {
+     "English": "Pill \/ tablet",
+     "Spanish": "Pastilla"
+    },
+    {
+     "English": "Plaster \/ Band-aid",
+     "Spanish": "Tirita \/ esparadrapo"
+    },
+    {
+     "English": "Post office \/ Mail office",
+     "Spanish": "Correos"
+    },
+    {
+     "English": "Pot",
+     "Spanish": "Olla"
+    },
+    {
+     "English": "Restaurant",
+     "Spanish": "Restaurante"
+    },
+    {
+     "English": "Shoe shop",
+     "Spanish": "Zapatería"
+    },
+    {
+     "English": "Shop",
+     "Spanish": "Tienda"
+    },
+    {
+     "English": "Spain",
+     "Spanish": "España"
+    },
+    {
+     "English": "Spanish",
+     "Spanish": "Español"
+    },
+    {
+     "English": "Spoon",
+     "Spanish": "Cuchara"
+    },
+    {
+     "English": "Square",
+     "Spanish": "Plaza"
+    },
+    {
+     "English": "Stationer's",
+     "Spanish": "Papelería"
+    },
+    {
+     "English": "Street",
+     "Spanish": "Calle"
+    },
+    {
+     "English": "Tax, iva=vat (value-added-tax)",
+     "Spanish": "Impuestos"
+    },
+    {
+     "English": "Thing",
+     "Spanish": "Cosa"
+    },
+    {
+     "English": "Toy shop",
+     "Spanish": "Juguetería"
+    },
+    {
+     "English": "Tray",
+     "Spanish": "Bandeja"
+    },
+    {
+     "English": "Washing machine",
+     "Spanish": "Lavadora"
+    },
+    {
+     "English": "Wath (pulsera) shop",
+     "Spanish": "Relojería"
+    }
+   ]

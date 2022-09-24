@@ -1,6 +1,14 @@
-<button (click)="cargarDatosIngles()">Cargar datos</button>
+<select name="tipoPalabra" (change)="cambiarPalabra()" [(ngModel)]="tipoPalabra">
+    <option [value]="item.tipo" *ngFor="let item of listaTipos">{{item.tipo}}</option>
+</select>
+
+
 <button (click)="cambiarPalabra()">Cambiar Palabra</button>
 <button (click)="mostrarSpanish()">Ver Español</button>
+
+<br><br>
+
+<h2>Tipo de palabra: {{tipoPalabra}}</h2>
 
 <div *ngIf="palabraRandom">{{palabraRandom.English}}</div>
 <div *ngIf="verSpanish">{{palabraRandom.Spanish}}</div>

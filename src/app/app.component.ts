@@ -10,6 +10,18 @@ export class AppComponent implements OnInit {
   datosIngles: any;
   palabraRandom: any;
   verSpanish: any;
+  tipoPalabra: string = 'ocupaciones';
+  listaTipos = [
+    {
+      'tipo': 'ocupaciones'
+    },
+    {
+      'tipo': 'vocabulario'
+    },
+    {
+      'tipo': 'lugares'
+    }
+  ]
 
   constructor(private readonly datosInglesService: DatosInglesService) {}
 
@@ -17,27 +29,17 @@ export class AppComponent implements OnInit {
    * Inicialmente se cargan las palabras desde base de datos y se muestra una por pantalla
    */
   async ngOnInit(): Promise<void> {
-    this.datosIngles = await this.datosInglesService.obtenerRegistros();
+    this.datosIngles = await this.datosInglesService.obtenerRegistros(this.listaTipos[0].tipo);
 
-    this.cambiarPalabra();
-  }
-  
-  /**
-   * Metodo encargado de poblar la base de datos y refrestar la base cargada en angular
-   */
-  async cargarDatosIngles() {    
-    // Se realiza la carga de datos
-    await this.datosInglesService.cargarBaseDatos();
-
-    // Se obtienen nuevamente desde base de datos
-    this.datosIngles = await this.datosInglesService.obtenerRegistros();
     this.cambiarPalabra();
   }
 
   /**
    * Metodo encargado de cambiar la palabra desplegada
    */
-  cambiarPalabra() {
+  async cambiarPalabra() {
+    this.datosIngles = await this.datosInglesService.obtenerRegistros(this.tipoPalabra);
+
     this.palabraRandom = this.datosIngles[Math.floor(Math.random() * this.datosIngles.length)];
     this.verSpanish = false;
   }
