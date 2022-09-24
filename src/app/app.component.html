@@ -1,0 +1,6 @@
+<button (click)="cargarDatosIngles()">Cargar datos</button>
+<button (click)="cambiarPalabra()">Cambiar Palabra</button>
+<button (click)="mostrarSpanish()">Ver Español</button>
+
+<div *ngIf="palabraRandom">{{palabraRandom.English}}</div>
+<div *ngIf="verSpanish">{{palabraRandom.Spanish}}</div>

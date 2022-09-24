@@ -1,0 +1,492 @@
+[
+      {
+       "ID": 1,
+       "English": "Accountant",
+       "Spanish": "Contador"
+      },
+      {
+       "ID": 2,
+       "English": "Actor",
+       "Spanish": "Actor"
+      },
+      {
+       "ID": 3,
+       "English": "Actress",
+       "Spanish": "Actriz"
+      },
+      {
+       "ID": 4,
+       "English": "Air hostess \/ Stewardess",
+       "Spanish": "Azafata"
+      },
+      {
+       "ID": 5,
+       "English": "Archaelogist",
+       "Spanish": "Arqueólogo\/a"
+      },
+      {
+       "ID": 6,
+       "English": "Architect",
+       "Spanish": "Arquitecto"
+      },
+      {
+       "ID": 7,
+       "English": "Artist",
+       "Spanish": "Artista"
+      },
+      {
+       "ID": 8,
+       "English": "Astrologer",
+       "Spanish": "Astrólogo"
+      },
+      {
+       "ID": 9,
+       "English": "Astronaut",
+       "Spanish": "Astronauta"
+      },
+      {
+       "ID": 10,
+       "English": "Athlete",
+       "Spanish": "Atleta"
+      },
+      {
+       "ID": 11,
+       "English": "Babysitter \/ nanny",
+       "Spanish": "Niñera"
+      },
+      {
+       "ID": 12,
+       "English": "Baker",
+       "Spanish": "Panadero"
+      },
+      {
+       "ID": 13,
+       "English": "Biologist",
+       "Spanish": "Biólogo\/a"
+      },
+      {
+       "ID": 14,
+       "English": "Bricklayer",
+       "Spanish": "Albañil"
+      },
+      {
+       "ID": 15,
+       "English": "Bus driver",
+       "Spanish": "Conductor\/a de autobús"
+      },
+      {
+       "ID": 16,
+       "English": "Businessman",
+       "Spanish": "Empresario, hombre de negocios"
+      },
+      {
+       "ID": 17,
+       "English": "Businesswoman",
+       "Spanish": "Empresaria, mujer de negocios"
+      },
+      {
+       "ID": 18,
+       "English": "Carpenter",
+       "Spanish": "Carpintero\/a"
+      },
+      {
+       "ID": 19,
+       "English": "Cashier",
+       "Spanish": "Cajero\/a"
+      },
+      {
+       "ID": 20,
+       "English": "Chef",
+       "Spanish": "Cocinero (profesional)"
+      },
+      {
+       "ID": 21,
+       "English": "Chemist",
+       "Spanish": "Químico, farmacéutico"
+      },
+      {
+       "ID": 22,
+       "English": "Cleaner",
+       "Spanish": "Limpiador, mujer de la limpieza"
+      },
+      {
+       "ID": 23,
+       "English": "Clown",
+       "Spanish": "Payaso"
+      },
+      {
+       "ID": 24,
+       "English": "Consultant",
+       "Spanish": "Consultor"
+      },
+      {
+       "ID": 25,
+       "English": "Cook",
+       "Spanish": "Cocinero"
+      },
+      {
+       "ID": 26,
+       "English": "Counselor",
+       "Spanish": "Asesor \/ Consultor"
+      },
+      {
+       "ID": 27,
+       "English": "Dancer",
+       "Spanish": "Bailarín"
+      },
+      {
+       "ID": 28,
+       "English": "Decorator",
+       "Spanish": "Decorador"
+      },
+      {
+       "ID": 29,
+       "English": "Dentist",
+       "Spanish": "Dentista"
+      },
+      {
+       "ID": 30,
+       "English": "Designer",
+       "Spanish": "Diseñador"
+      },
+      {
+       "ID": 31,
+       "English": "Doctor",
+       "Spanish": "Médico\/a"
+      },
+      {
+       "ID": 32,
+       "English": "Dressmaker",
+       "Spanish": "Modista"
+      },
+      {
+       "ID": 33,
+       "English": "Economist",
+       "Spanish": "Economista"
+      },
+      {
+       "ID": 34,
+       "English": "Electrician",
+       "Spanish": "Electricista"
+      },
+      {
+       "ID": 35,
+       "English": "Engineer",
+       "Spanish": "Ingeniero\/a"
+      },
+      {
+       "ID": 36,
+       "English": "Farmer",
+       "Spanish": "Granjero, agricultor"
+      },
+      {
+       "ID": 37,
+       "English": "Fireman",
+       "Spanish": "Bombero"
+      },
+      {
+       "ID": 38,
+       "English": "Garbage collector",
+       "Spanish": "Basurero (USA)"
+      },
+      {
+       "ID": 39,
+       "English": "Gardener",
+       "Spanish": "Jardinero\/a"
+      },
+      {
+       "ID": 40,
+       "English": "Hairdresser",
+       "Spanish": "Peluquero\/a"
+      },
+      {
+       "ID": 41,
+       "English": "Housewife",
+       "Spanish": "Ama de casa"
+      },
+      {
+       "ID": 42,
+       "English": "Hunter",
+       "Spanish": "Cazador"
+      },
+      {
+       "ID": 43,
+       "English": "Instructor \/ Trainer",
+       "Spanish": "Instructor"
+      },
+      {
+       "ID": 44,
+       "English": "Interpreter",
+       "Spanish": "Intérprete"
+      },
+      {
+       "ID": 45,
+       "English": "Jeweler",
+       "Spanish": "Joyero\/a"
+      },
+      {
+       "ID": 46,
+       "English": "Journalist",
+       "Spanish": "Periodista"
+      },
+      {
+       "ID": 47,
+       "English": "Judge",
+       "Spanish": "Juez"
+      },
+      {
+       "ID": 48,
+       "English": "Lawyer",
+       "Spanish": "Abogado\/a"
+      },
+      {
+       "ID": 49,
+       "English": "Librarian",
+       "Spanish": "Biblotecario\/a"
+      },
+      {
+       "ID": 50,
+       "English": "Life guard",
+       "Spanish": "Socorrista"
+      },
+      {
+       "ID": 51,
+       "English": "Magician",
+       "Spanish": "Mago"
+      },
+      {
+       "ID": 52,
+       "English": "Mailman",
+       "Spanish": "Cartero"
+      },
+      {
+       "ID": 53,
+       "English": "Manager",
+       "Spanish": "Gerente"
+      },
+      {
+       "ID": 54,
+       "English": "Mechanic",
+       "Spanish": "Mecánico\/a"
+      },
+      {
+       "ID": 55,
+       "English": "Meteorologist",
+       "Spanish": "Meteorólogo"
+      },
+      {
+       "ID": 56,
+       "English": "Miner",
+       "Spanish": "Minero\/a"
+      },
+      {
+       "ID": 57,
+       "English": "Model",
+       "Spanish": "Modelo"
+      },
+      {
+       "ID": 58,
+       "English": "Musician",
+       "Spanish": "Músico"
+      },
+      {
+       "ID": 59,
+       "English": "Nun",
+       "Spanish": "Monja"
+      },
+      {
+       "ID": 60,
+       "English": "Nurse",
+       "Spanish": "Enfermero\/a"
+      },
+      {
+       "ID": 61,
+       "English": "Office worker",
+       "Spanish": "Oficinista"
+      },
+      {
+       "ID": 62,
+       "English": "Painter",
+       "Spanish": "Pintor"
+      },
+      {
+       "ID": 63,
+       "English": "Pediatrician",
+       "Spanish": "Pediatra"
+      },
+      {
+       "ID": 64,
+       "English": "Pharmacist",
+       "Spanish": "Farmacéutico"
+      },
+      {
+       "ID": 65,
+       "English": "Philosopher",
+       "Spanish": "Filósofo"
+      },
+      {
+       "ID": 66,
+       "English": "Photographer",
+       "Spanish": "Fotógrafo"
+      },
+      {
+       "ID": 67,
+       "English": "Physicist",
+       "Spanish": "FÍsico"
+      },
+      {
+       "ID": 68,
+       "English": "Pilot",
+       "Spanish": "Piloto"
+      },
+      {
+       "ID": 69,
+       "English": "Plumber",
+       "Spanish": "Fontanero"
+      },
+      {
+       "ID": 70,
+       "English": "Poet",
+       "Spanish": "Poeta"
+      },
+      {
+       "ID": 71,
+       "English": "Policeman \/ Policewoman",
+       "Spanish": "Policía (hombre \/ mujer)"
+      },
+      {
+       "ID": 72,
+       "English": "Politician",
+       "Spanish": "Político"
+      },
+      {
+       "ID": 73,
+       "English": "Porter",
+       "Spanish": "Conserje"
+      },
+      {
+       "ID": 74,
+       "English": "President",
+       "Spanish": "Presidente"
+      },
+      {
+       "ID": 75,
+       "English": "Priest",
+       "Spanish": "Cura"
+      },
+      {
+       "ID": 76,
+       "English": "Professor",
+       "Spanish": "Profesor (Universidad)"
+      },
+      {
+       "ID": 77,
+       "English": "Programmer",
+       "Spanish": "Programador"
+      },
+      {
+       "ID": 78,
+       "English": "Psychiatrist",
+       "Spanish": "Psiquiatra"
+      },
+      {
+       "ID": 79,
+       "English": "Psychologist",
+       "Spanish": "Psicólogo\/a"
+      },
+      {
+       "ID": 80,
+       "English": "Publisher \/ Editor",
+       "Spanish": "Editor"
+      },
+      {
+       "ID": 81,
+       "English": "Receptionist",
+       "Spanish": "Recepcionista"
+      },
+      {
+       "ID": 82,
+       "English": "Researcher",
+       "Spanish": "Investigador"
+      },
+      {
+       "ID": 83,
+       "English": "Salesman\/woman",
+       "Spanish": "Vendedor\/a"
+      },
+      {
+       "ID": 84,
+       "English": "Scientist",
+       "Spanish": "Científico"
+      },
+      {
+       "ID": 85,
+       "English": "Sculptor",
+       "Spanish": "Escultor"
+      },
+      {
+       "ID": 86,
+       "English": "Secretary",
+       "Spanish": "Secretario\/a"
+      },
+      {
+       "ID": 87,
+       "English": "Singer",
+       "Spanish": "Cantante"
+      },
+      {
+       "ID": 88,
+       "English": "Social worker",
+       "Spanish": "Trabajador social"
+      },
+      {
+       "ID": 89,
+       "English": "Soldier",
+       "Spanish": "Soldado"
+      },
+      {
+       "ID": 90,
+       "English": "Surgeon",
+       "Spanish": "Cirujano"
+      },
+      {
+       "ID": 91,
+       "English": "Taxi driver",
+       "Spanish": "Taxista"
+      },
+      {
+       "ID": 92,
+       "English": "Teacher",
+       "Spanish": "Profesor (Primaria y Secundaria)"
+      },
+      {
+       "ID": 93,
+       "English": "Travel Agent",
+       "Spanish": "Agente de viajes"
+      },
+      {
+       "ID": 94,
+       "English": "Truck driver",
+       "Spanish": "Camionero\/a (USA)"
+      },
+      {
+       "ID": 95,
+       "English": "Veterinarian",
+       "Spanish": "Veterinario"
+      },
+      {
+       "ID": 96,
+       "English": "Waiter",
+       "Spanish": "Camarero \/ Mesero"
+      },
+      {
+       "ID": 97,
+       "English": "Waitress",
+       "Spanish": "Camarera \/ Mesera"
+      },
+      {
+       "ID": 98,
+       "English": "Writer",
+       "Spanish": "Escritor"
+      }
+     ]
